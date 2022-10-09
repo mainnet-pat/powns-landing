@@ -3,7 +3,7 @@ import styled from "@emotion/styled"
 import logo from "../assets/logo-darkbg.png"
 
 const LogoContainer = styled("div")`
-  height: 48px;
+  height: 68px;
   display: flex;
 
   img {
@@ -11,7 +11,7 @@ const LogoContainer = styled("div")`
   }
 
   .ens-logo {
-    width: 128px;
+    width: 278px;
     margin-right: 10px;
   }
 `

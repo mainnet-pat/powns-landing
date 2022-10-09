@@ -4,7 +4,7 @@ import logo from "../assets/logo-lightbg.png"
 
 const LogoContainer = styled("div")`
   .ens-logo {
-    width: 128px;
+    width: 278px;
     margin-right: 10px;
   }
 `

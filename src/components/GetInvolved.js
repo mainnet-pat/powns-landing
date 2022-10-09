@@ -16,14 +16,14 @@ const links = [
     img: community,
     text: "Join our Discord community",
     cta: "Join Discord",
-    link: "https://discord.gg/SMRdBNkeaa",
+    link: "https://discord.gg/pttBJxmeSz",
   },
   {
     name: "documentation",
     img: documentation,
     text: "Read our documentation",
     cta: "Read Docs",
-    link: "https://docs.dogedomains.wf/",
+    link: "https://docs.powns.domains/",
   },
 ]
 

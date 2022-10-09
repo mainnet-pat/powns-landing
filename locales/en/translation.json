@@ -27,7 +27,7 @@
       "text": "No more copying and pasting long addresses. Use your POWNS name to store all of your addresses and receive any cryptocurrency, token, or NFT."
     },
     "statistics": {
-      "title": "POWNS is the most widely integrated blockchain naming standard on DogeChain.",
+      "title": "POWNS is the most widely integrated blockchain naming standard on EthereumPoW.",
       "names": "Names",
       "services": "Integrations",
       "owners": "Owners"
@@ -38,7 +38,7 @@
     },
     "dns": {
       "title": "Use Traditional Domains",
-      "text1": "The native name suffix for POWNS is .doge, which has the full security benefits of being blockchain-native.",
+      "text1": "The native name suffix for POWNS is .ethw, which has the full security benefits of being blockchain-native.",
       "text2": "You can also use POWNS with DNS names you already own. POWNS supports most DNS names, including:"
     },
     "ecosystem": {
@@ -81,10 +81,10 @@
     }
   },
   "about": {
-    "hero": "The Đoge Name Service is an open source blockchain-based naming protocol.",
+    "hero": "POWNS Domains is an open source blockchain-based naming protocol.",
     "aboutDNS": {
       "title": "About POWNS",
-      "text": "POWNS forked from LNS onto DogeChain with a focus on decentralization, inexpensive fees, and robust tokenomics. POWNS development is led by mainnet_pat and is a public good, a basic piece of Internet infrastructure that belongs to the community. We welcome all feedback and contributions!",
+      "text": "POWNS forked from LNS onto EthereumPoW with a focus on decentralization, inexpensive fees, and robust tokenomics. POWNS development is led by mainnet_pat and is a public good, a basic piece of Internet infrastructure that belongs to the community. We welcome all feedback and contributions!",
       "support": "We have received generous financial support from:",
       "support2": "Representatives of POWNS participate in the greater Internet community:"
     },

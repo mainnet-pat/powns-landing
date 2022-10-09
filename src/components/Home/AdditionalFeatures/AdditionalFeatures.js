@@ -31,7 +31,7 @@ const features = [
     name: "subDomains",
     img: usernames,
     link:
-      "https://docs.dogedomains.wf/dapp-developer-guide/managing-names#creating-subdomains",
+      "https://docs.powns.domains/dapp-developer-guide/managing-names#creating-subdomains",
   },
   {
     name: "dns",

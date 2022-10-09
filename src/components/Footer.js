@@ -34,7 +34,7 @@ const social = [
   {
     img: twitter,
     text: "Twitter",
-    link: "https://twitter.com/NameServiceDoge",
+    link: "https://twitter.com/POWNSDomains",
   },
   /*
   {
@@ -43,11 +43,11 @@ const social = [
     link: "https://medium.com/@bchdomains",
   },
   */
-  {
-    img: github,
-    text: "GitHub",
-    link: "https://github.com/dogmoneyswap",
-  },
+  // {
+  //   img: github,
+  //   text: "GitHub",
+  //   link: "https://github.com/dogmoneyswap",
+  // },
 ]
 
 const ExternalLink = styled("a")`
@@ -115,7 +115,7 @@ export default function Footer(props) {
       </SocialContainer>
       <FooterColumn>
         <MailTo href="mailto:press@bch.domains">press@bch.domains</MailTo>
-        <MailTo href="https://docs.dogedomains.wf/bug-bounty-program">
+        <MailTo href="https://docs.powns.domains/bug-bounty-program">
           Bug Bounty
         </MailTo>
       </FooterColumn>

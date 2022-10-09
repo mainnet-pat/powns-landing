@@ -11,7 +11,7 @@ function getTitle(pathname) {
     case "/about":
       return "About POWNS"
     default:
-      return "Đoge Name Service"
+      return "POWNS Domains"
   }
 }
 
@@ -28,7 +28,7 @@ export default function Layout({ children, data, location }) {
           {
             name: "keywords",
             content:
-              "POWNS, DOGE, ENS, DogeChain, Doge Name Service, .doge domains, blockchain domains, ENS on DogeChain",
+              "POWNS, ENS, EthereumPoW, POWNS Domains, .ethw domains, blockchain domains, ENS on EthereumPoW",
           },
           {
             name: "twitter:card",
@@ -36,11 +36,11 @@ export default function Layout({ children, data, location }) {
           },
           {
             name: "twitter:title",
-            content: "Đoge Name Service",
+            content: "POWNS Domains",
           },
           {
             property: "og:image",
-            content: `https://dogedomains.wf${twitter}`,
+            content: `https://powns.domains${twitter}`,
           },
         ]}
         title={getTitle(location.pathname)}

@@ -23,7 +23,7 @@ export default function Home(props) {
       <PortableUsername />
       <Cryptocurrencies />
       <DecentralisedWebsites />
-      <Ecosystem />
+      {/*<Ecosystem />*/}
       <GetInvolved />
       <Footer />
     </Layout>

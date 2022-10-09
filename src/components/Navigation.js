@@ -223,32 +223,32 @@ export default function Navigation() {
       </div>
 
       <Links menuOpen={menuOpen}>
-        <a href="/token">Token</a>
-        <a href="https://discord.gg/SMRdBNkeaa">Community</a>
+      {/*<a href="/token">Token</a>*/}
+        <a href="https://discord.gg/pttBJxmeSz">Community</a>
         <Link to="/about">Team</Link>
-        <a href="https://docs.dogedomains.wf/">Docs</a>
+        <a href="https://docs.powns.domains/">Docs</a>
 
         <Separator />
         <LanguageSwitcher />
-        <Launch href="https://app.dogedomains.wf">{t("nav.launch")}</Launch>
+        <Launch href="https://app.powns.domains">{t("nav.launch")}</Launch>
       </Links>
 
       <MobileLinks menuOpen={menuOpen}>
         <LanguageSwitcher mobile={true} />
-        <li>
+      {/*<li>
           <a href="/token">Token</a>
-        </li>
+        </li>*/}
         <li>
-          <a href="https://discord.gg/SMRdBNkeaa">Community</a>
+          <a href="https://discord.gg/pttBJxmeSz">Community</a>
         </li>
         <li>
           <Link to="/about">Team</Link>
         </li>
         <li>
-          <a href="https://docs.dogedomains.wf/">Docs</a>
+          <a href="https://docs.powns.domains/">Docs</a>
         </li>
         <li>
-          <Launch href="https://app.dogedomains.wf">{t("nav.launch")}</Launch>
+          <Launch href="https://app.powns.domains">{t("nav.launch")}</Launch>
         </li>
       </MobileLinks>
     </Nav>

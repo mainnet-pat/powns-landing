@@ -176,16 +176,16 @@ export default function Navigation() {
       </div>
 
       <Links menuOpen={menuOpen}>
-        <NavLink href="/token" active={true}>
+      {/*<NavLink href="/token" active={true}>
           Token
-        </NavLink>
-        <NavLink href="https://discord.gg/SMRdBNkeaa">Community</NavLink>
+        </NavLink>*/}
+        <NavLink href="https://discord.gg/pttBJxmeSz">Community</NavLink>
         <NavLink href="/about">Team</NavLink>
-        <NavLink href="https://docs.dogedomains.wf/">Docs</NavLink>
+        <NavLink href="https://docs.powns.domains/">Docs</NavLink>
 
         <Separator />
         <LanguageSwitcher />
-        <a href="https://app.dogedomains.wf">
+        <a href="https://app.powns.domains">
           <Launch style={{ opacity: 1 }} text={t("nav.launch")} />
         </a>
       </Links>
@@ -195,16 +195,16 @@ export default function Navigation() {
           <a href="/token">Token</a>
         </li>
         <li>
-          <a href="https://discord.gg/SMRdBNkeaa">Community</a>
+          <a href="https://discord.gg/pttBJxmeSz">Community</a>
         </li>
         <li>
           <Link to="/about">Team</Link>
         </li>
         <li>
-          <a href="https://docs.dogedomains.wf/">Docs</a>
+          <a href="https://docs.powns.domains/">Docs</a>
         </li>
         <li>
-          <a href="https://app.dogedomains.wf">
+          <a href="https://app.powns.domains">
             <Launch text={t("nav.launch")} />
           </a>
         </li>

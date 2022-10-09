@@ -178,7 +178,7 @@ const standardBoxData = [
     color: "#854BFF",
     backgroundColor: "#E1DAF7",
     borderColor: "#C0B2EA",
-    link: "https://discord.gg/SMRdBNkeaa",
+    link: "https://discord.gg/pttBJxmeSz",
   },
   {
     icon: governance,
@@ -186,7 +186,7 @@ const standardBoxData = [
     color: "#4D90F1",
     backgroundColor: "rgba(77, 144, 241, 0.1)",
     borderColor: "#B0D0FF",
-    link: "https://docs.dogedomains.wf/tokenomics/",
+    link: "https://docs.powns.domains/tokenomics/",
   },
 ]
 
@@ -283,7 +283,7 @@ export default function Token(props) {
           </ContentInner>
         </Content>
         <Footer>
-          <a href={"https://twitter.com/NameServiceDoge"}>
+          <a href={"https://twitter.com/POWNSDomains"}>
             <img
               src={twitterGrey}
               width="34"
@@ -291,7 +291,7 @@ export default function Token(props) {
               alt="Twitter"
             />
           </a>
-          <a href={"https://discord.com/SMRdBNkeaa"}>
+          <a href={"https://discord.gg/pttBJxmeSz"}>
             <img
               src={discordGrey}
               width="30"
