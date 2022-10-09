@@ -9,7 +9,7 @@ function getTitle(pathname) {
     case "/token":
       return "Token"
     case "/about":
-      return "About ĐNS"
+      return "About POWNS"
     default:
       return "Đoge Name Service"
   }
@@ -28,7 +28,7 @@ export default function Layout({ children, data, location }) {
           {
             name: "keywords",
             content:
-              "ĐNS, DOGE, ENS, DogeChain, Doge Name Service, .doge domains, blockchain domains, ENS on DogeChain",
+              "POWNS, DOGE, ENS, DogeChain, Doge Name Service, .doge domains, blockchain domains, ENS on DogeChain",
           },
           {
             name: "twitter:card",

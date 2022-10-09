@@ -24,25 +24,25 @@
     },
     "cryptocurrencies": {
       "title": "One Name For All of Your Addresses",
-      "text": "No more copying and pasting long addresses. Use your ĐNS name to store all of your addresses and receive any cryptocurrency, token, or NFT."
+      "text": "No more copying and pasting long addresses. Use your POWNS name to store all of your addresses and receive any cryptocurrency, token, or NFT."
     },
     "statistics": {
-      "title": "ĐNS is the most widely integrated blockchain naming standard on DogeChain.",
+      "title": "POWNS is the most widely integrated blockchain naming standard on DogeChain.",
       "names": "Names",
       "services": "Integrations",
       "owners": "Owners"
     },
     "decentralisedWebsites": {
       "title": "Decentralised Websites",
-      "text": "Launch censorship-resistant decentralised websites with ĐNS. Upload your website to IPFS and access it with your ĐNS name."
+      "text": "Launch censorship-resistant decentralised websites with POWNS. Upload your website to IPFS and access it with your POWNS name."
     },
     "dns": {
       "title": "Use Traditional Domains",
-      "text1": "The native name suffix for ĐNS is .doge, which has the full security benefits of being blockchain-native.",
-      "text2": "You can also use ĐNS with DNS names you already own. ĐNS supports most DNS names, including:"
+      "text1": "The native name suffix for POWNS is .doge, which has the full security benefits of being blockchain-native.",
+      "text2": "You can also use POWNS with DNS names you already own. POWNS supports most DNS names, including:"
     },
     "ecosystem": {
-      "title": "ĐNS Ecosystem",
+      "title": "POWNS Ecosystem",
       "wallets": "Wallets",
       "apps": "Apps",
       "browsers": "Browsers",
@@ -53,11 +53,11 @@
       "title": "Additional Features",
       "recordType": "Create your project’s own record type.",
 
-      "textRecord": "Attach profile information to your ĐNS name with text records.",
+      "textRecord": "Attach profile information to your POWNS name with text records.",
 
-      "subDomains": "Create ĐNS subdomains as usernames for your project.",
+      "subDomains": "Create POWNS subdomains as usernames for your project.",
       "dns": "Store and serve traditional DNS records with certain names.",
-      "tor": "Use ĐNS to more easily access Tor .onion hidden services.",
+      "tor": "Use POWNS to more easily access Tor .onion hidden services.",
       "erc721": ".BCH names are ERC721-compliant NFTs."
     },
     "getInvolved": {
@@ -83,21 +83,21 @@
   "about": {
     "hero": "The Đoge Name Service is an open source blockchain-based naming protocol.",
     "aboutDNS": {
-      "title": "About ĐNS",
-      "text": "ĐNS forked from LNS onto DogeChain with a focus on decentralization, inexpensive fees, and robust tokenomics. ĐNS development is led by mainnet_pat and is a public good, a basic piece of Internet infrastructure that belongs to the community. We welcome all feedback and contributions!",
+      "title": "About POWNS",
+      "text": "POWNS forked from LNS onto DogeChain with a focus on decentralization, inexpensive fees, and robust tokenomics. POWNS development is led by mainnet_pat and is a public good, a basic piece of Internet infrastructure that belongs to the community. We welcome all feedback and contributions!",
       "support": "We have received generous financial support from:",
-      "support2": "Representatives of ĐNS participate in the greater Internet community:"
+      "support2": "Representatives of POWNS participate in the greater Internet community:"
     },
     "team": {
       "title": "Meet the team"
     },
     "root": {
-      "title": "Managing the ĐNS root",
-      "text": "To facilitate the possibility of upgrades and maintenance, the ĐNS root is controlled by a four of seven multisig, with members of related projects as keyholders. In the long term, we would like the root multisig to be replaced by some form of distributed decision making process, as such systems become available."
+      "title": "Managing the POWNS root",
+      "text": "To facilitate the possibility of upgrades and maintenance, the POWNS root is controlled by a four of seven multisig, with members of related projects as keyholders. In the long term, we would like the root multisig to be replaced by some form of distributed decision making process, as such systems become available."
     }
   },
   "governance": {
-    "claim": "Claim your $ĐNS",
+    "claim": "Claim your $POWNS",
     "discord": "Chat on Discord",
     "discuss": "Join the forum",
     "governance": "Documentation",

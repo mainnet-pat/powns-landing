@@ -231,7 +231,7 @@ const StandardBox = ({
 
 async function claimOnClick() {
   const tokenAddress = '0x35b3Ee79E1A7775cE0c11Bd8cd416630E07B0d6f'
-  const tokenSymbol = 'ĐNS'
+  const tokenSymbol = 'POWNS'
   const tokenDecimals = 18
   const tokenImage = 'https://assets.mistswap.fi/blockchains/smartbch/assets/0x35b3Ee79E1A7775cE0c11Bd8cd416630E07B0d6f/logo.png'
 
